@@ -1,4 +1,4 @@
-# 67kkit Command Blocker
+# Command Blocker
 
 A simple Nukkit plugin to hide server version information.
 
