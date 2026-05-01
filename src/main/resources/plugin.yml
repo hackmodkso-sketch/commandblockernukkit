@@ -1,0 +1,6 @@
+name: CommandBlocker
+main: me.server.blocker.Main
+version: 1.0.0
+api: ["1.0.8"]
+author: freddy
+description: Blocks /ver and /about for all players and OPs.
